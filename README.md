@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- 
-
  <a href="https://opportfolio-8xg1.onrender.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/anshkamra12/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:anshkamra1238@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
@@ -85,6 +83,7 @@ Here are some ideas to get you started:
 <br />
 
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+<p align="center">
 <code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
@@ -93,6 +92,7 @@ Here are some ideas to get you started:
 <code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 </br></br>
+</p>
 <!-- <h2>:books: My personal portfolio</h2>
 <a href="https://opportfolio-8xg1.onrender.com">
 <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-Anshkamra1238.vercel.app/api/pin/?username=Anshkamra1238&repo=portfolio&theme=midnight-purple&hide_border=true">
