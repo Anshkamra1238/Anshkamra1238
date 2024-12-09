@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <p align="center" style="font-weight: bold;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=40&duration=4000&pause=1&center=true&vCenter=true&width=435&lines=Software+Developer;MERN+Stack+Developer;Cloud+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&weight=800&size=40&duration=4000&pause=1&center=true&vCenter=true&width=435&lines=Software+Developer;MERN+Stack+Developer;Cloud+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 <br>
 - 🔭 I build craftable and scalable web applications.<br>
@@ -45,8 +45,6 @@ Here are some ideas to get you started:
  <a href="mailto:anshkamra1238@gmail.com"> <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
   <a href="https://www.twitter.com/anshkamra"> <img src="https://img.icons8.com/?size=100&id=5MQ0gPAYYx7a&format=png&color=000000" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
-
-<br />
 
 
 ## 🧰 Languages and Tools:
@@ -100,6 +98,21 @@ Here are some ideas to get you started:
 <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-Anshkamra1238.vercel.app/api/pin/?username=Anshkamra1238&repo=portfolio&theme=midnight-purple&hide_border=true">
 </a> -->
 
+## :trophy: My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoann&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Anshkamra1238&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Anshkamra1238&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshkamra1238&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshkamra1238&hide=php&theme=tokyonight" />
+</a>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
     <summary>See quote</summary>
@@ -118,34 +131,19 @@ Here are some ideas to get you started:
 
 
 
-
-## :trophy: My Github Stats:
-
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoann&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Anshkamra1238&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Anshkamra1238&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshkamra1238&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshkamra1238&hide=php&theme=tokyonight" />
-</a>
-</div>
-<br><br>
-
-
 [website]: https://opportfolio-8xg1.onrender.com
 [linkedin]: https://www.linkedin.com/in/anshkamra12/
 [mail]: mailto:anshkamra1238@gmail.com
 
-<br><br><br><br><br><br><br><br><br><br><br>
+
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/Anshkamra1238/Anshkamra1238/issues/new?template=guestbook-entry.md">here</a>!</p>
 <p>Or ask me anything at <a href="https://github.com/Anshkamra1238/Anshkamra1238/discussions/new/choose">Discussions</a>!</p>
-
+<br> <br>
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&pause=1000&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=40&duration=4000&pause=1000&width=435&lines=Thanks+for+visiting!+" alt="Typing SVG" /></a>
+ <p style="font-weight: bold , font-size: 30px;">
+I hope you enjoyed exploring my projects and getting a glimpse of my work. I'm always open to new opportunities, collaborations, or even just exchanging ideas about technology and innovation. Feel free to connect with me if you’re interested in working together or sharing insights!
+ </p>
 </div>
