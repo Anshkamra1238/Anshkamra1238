@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 <p>Or ask me anything at <a href="https://github.com/Anshkamra1238/Anshkamra1238/discussions/new/choose">Discussions</a>!</p>
 <br> <br>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=40&duration=4000&pause=1000&width=435&lines=Thanks+for+visiting!+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=4000&pause=1000&width=435&lines=Thanks+for+visiting!+" alt="Typing SVG" /></a>
  <p style="font-weight: bold , font-size: 30px;">
 I hope you enjoyed exploring my projects and getting a glimpse of my work. I'm always open to new opportunities, collaborations, or even just exchanging ideas about technology and innovation. Feel free to connect with me if you’re interested in working together or sharing insights!
  </p>
