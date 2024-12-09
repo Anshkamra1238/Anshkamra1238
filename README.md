@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋 I'm [Ansh Kamra][website] 😀
+## Hi there👋  I'm [Ansh Kamra][website] 😀 <br>
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=Anshkamra1238.Anshkamra1238) [![Github](https://img.shields.io/github/followers/Anshkamra1238?label=Followers&logo=Github)](https://github.com/Anshkamra1238)
 
 
 
 
-## 🎓 I'm a MERN Stack Developer
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5000&pause=10&width=435&lines=Software+Developer;MERN+Stack+Developer;Cloud+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 
 - 🔭 I build craftable and scalable web applications.
 - 🌱 I’m currently learning AWS. 
@@ -37,6 +39,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+ 
+
  <a href="https://opportfolio-8xg1.onrender.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/anshkamra12/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:anshkamra1238@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
@@ -58,9 +62,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/tailwind/tailwind.png" alt="Tailwind CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/jwt/jwt.png" alt="JWT" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/postman/postman.png" alt="Postman" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/rest-api/rest-api.png" alt="REST API" height="40" style="vertical-align:top; margin:4px">
+<img src="https://via.placeholder.com/40/000000/FFFFFF?text=JWT" alt="JWT" height="40" style="vertical-align:top; margin:4px">
+
+
+<img src="https://via.placeholder.com/40/000000/FFFFFF?text=REST+API" alt="REST API" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/figma/figma.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
 
 
@@ -78,6 +83,36 @@ Here are some ideas to get you started:
 </p>
 
 <br />
+
+<h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+<code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+</br></br>
+<h2>:books: My personal portfolio</h2>
+<a href="https://opportfolio-8xg1.onrender.com">
+<!--     <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true"> -->
+</a>
+</br>
+
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+    <summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
 
 
 
@@ -97,9 +132,21 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshkamra1238&hide=php&theme=tokyonight" />
 </a>
 </div>
+<br><br>
 
 
+[website]: https://opportfolio-8xg1.onrender.com
+[linkedin]: https://www.linkedin.com/in/anshkamra12/
+[mail]: mailto:anshkamra1238@gmail.com
 
-[website]: https://charalambosioannou.tech
-[linkedin]: https://linkedin.com/in/charalambosioannou
-[mail]: mailto:cioannou1997@gmail.com
+<br><br><br><br><br><br><br><br><br><br><br>
+
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Anshkamra1238/Anshkamra1238/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/Anshkamra1238/Anshkamra1238/discussions/new/choose">Discussions</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
