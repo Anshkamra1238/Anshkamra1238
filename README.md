@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
+<p align="center" style="font-weight: bold;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=40&duration=4000&pause=1&center=true&vCenter=true&width=435&lines=Software+Developer;MERN+Stack+Developer;Cloud+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 <br>
