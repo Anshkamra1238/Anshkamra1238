@@ -121,7 +121,7 @@ Here are some ideas to get you started:
     </a>
 </details>
 <h2>:zany_face: Joke of the day</h2>
-<details>
+<details open>
     <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
