@@ -39,9 +39,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
- <a href="https://opportfolio-8xg1.onrender.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/anshkamra12/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:anshkamra1238@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://opportfolio-8xg1.onrender.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/?size=100&id=AfM2kzPzTz6Q&format=png&color=000000" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/anshkamra12/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:anshkamra1238@gmail.com"> <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://www.twitter.com/anshkamra"> <img src="https://img.icons8.com/?size=100&id=5MQ0gPAYYx7a&format=png&color=000000" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 
 <br />
@@ -145,7 +146,5 @@ Here are some ideas to get you started:
 <p>Or ask me anything at <a href="https://github.com/Anshkamra1238/Anshkamra1238/discussions/new/choose">Discussions</a>!</p>
 
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&pause=1000&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" /></a>
 </div>
