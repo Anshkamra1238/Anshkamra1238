@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/tailwind/tailwind.png" alt="Tailwind CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://via.placeholder.com/40/000000/FFFFFF?text=JWT" alt="JWT" height="40" style="vertical-align:top; margin:4px">
+<img src="https://via.placeholder.com/40/000000/FFFFFF?text=JWT" alt="JWT" height="40" style="vertical-align:top; margin:4px"> 
 
 
 <img src="https://via.placeholder.com/40/000000/FFFFFF?text=REST+API" alt="REST API" height="40" style="vertical-align:top; margin:4px">
@@ -93,11 +93,10 @@ Here are some ideas to get you started:
 <code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 </br></br>
-<h2>:books: My personal portfolio</h2>
+<!-- <h2>:books: My personal portfolio</h2>
 <a href="https://opportfolio-8xg1.onrender.com">
-<!--     <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true"> -->
-</a>
-</br>
+<img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-Anshkamra1238.vercel.app/api/pin/?username=Anshkamra1238&repo=portfolio&theme=midnight-purple&hide_border=true">
+</a> -->
 
 <h2>:thought_balloon: Quote of the day</h2>
 <details open>
