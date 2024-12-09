@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 
 
 
-
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=5000&pause=10&width=435&lines=Software+Developer;MERN+Stack+Developer;Cloud+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a>
-
-- 🔭 I build craftable and scalable web applications.
-- 🌱 I’m currently learning AWS. 
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about MERN Stack, Cloud Computing with AWS and UI/UX Designing.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=40&duration=4000&pause=1&center=true&vCenter=true&width=435&lines=Software+Developer;MERN+Stack+Developer;Cloud+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+</p>
+<br>
+- 🔭 I build craftable and scalable web applications.<br>
+- 🌱 I’m currently learning AWS. <br>
+- 👯 I’m looking to collaborate with anyone on any project.<br>
+- 💬 Ask me about MERN Stack, Cloud Computing with AWS and UI/UX Designing.<br>
 
 
 ## :email: Find me on:
